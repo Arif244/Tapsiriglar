@@ -1,0 +1,15 @@
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\bin\Debug\net6.0\StringBuilder and Class.exe
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\bin\Debug\net6.0\StringBuilder and Class.deps.json
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\bin\Debug\net6.0\StringBuilder and Class.runtimeconfig.json
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\bin\Debug\net6.0\StringBuilder and Class.dll
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\bin\Debug\net6.0\StringBuilder and Class.pdb
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.csproj.AssemblyReference.cache
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.AssemblyInfoInputs.cache
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.AssemblyInfo.cs
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.csproj.CoreCompileInputs.cache
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.dll
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\refint\StringBuilder and Class.dll
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.pdb
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\StringBuilder and Class.genruntimeconfig.cache
+C:\Users\Arif\Desktop\evde ders\ev tapsiriqlari\StringBuilder and Class\obj\Debug\net6.0\ref\StringBuilder and Class.dll
