@@ -1,0 +1,15 @@
+C:\Users\Arif\Desktop\evde ders\Class and constraction\bin\Debug\net6.0\Class and constraction.exe
+C:\Users\Arif\Desktop\evde ders\Class and constraction\bin\Debug\net6.0\Class and constraction.deps.json
+C:\Users\Arif\Desktop\evde ders\Class and constraction\bin\Debug\net6.0\Class and constraction.runtimeconfig.json
+C:\Users\Arif\Desktop\evde ders\Class and constraction\bin\Debug\net6.0\Class and constraction.dll
+C:\Users\Arif\Desktop\evde ders\Class and constraction\bin\Debug\net6.0\Class and constraction.pdb
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.csproj.AssemblyReference.cache
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.AssemblyInfoInputs.cache
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.AssemblyInfo.cs
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.csproj.CoreCompileInputs.cache
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.dll
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\refint\Class and constraction.dll
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.pdb
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\Class and constraction.genruntimeconfig.cache
+C:\Users\Arif\Desktop\evde ders\Class and constraction\obj\Debug\net6.0\ref\Class and constraction.dll
